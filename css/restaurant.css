@@ -7,7 +7,7 @@ video {
     position: fixed;
     /* top: 50%;
     left: 50%; */
-    margin-top: -39%;
+    margin-top: -44%;
     margin-left: -0.4%;
     z-index: 1;
     /* width: 100%; */
@@ -26,18 +26,21 @@ div {
 h1 {
     font-size: 40px;
     margin-bottom: 50px;
+    /* font-family: 'Josefin Sans'; */
+    font-family: 'EB Garamond';
 }
 
 .description {
     margin-top: 25%;
-    font-size: 1.5em;
+    font-size: 1.6em;
+    font-family: 'Crimson Text';
 }
 
 a {
     display: inline-block;
     padding: 12px 48px;
-    border: solid 4px steelblue;
+    border: solid 4px lightblue;
     text-decoration: none;
     font-size: 24px;
-    color: steelblue;
+    color: lightblue;
 }
