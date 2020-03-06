@@ -1,6 +1,6 @@
-# restaurant
+# Restaurant Webpage
 
-An exercise for a front-end (HTML and CSS) only webpage using a video as the background.
+An front-end exercise creating a webpage with only HTML and CSS, using a video as the background.
 
 # Screenshots
 
